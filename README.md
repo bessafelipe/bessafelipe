@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Eu sou o Felipe Bessa 🖐️
 
-<!--
-**bessafelipe/bessafelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro Mecânico e entusista da ciência de dados.
 
-Here are some ideas to get you started:
+##
+Habilidades e tecnologias que utilizo:
+<div>
+  <img align="center"   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center"   src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+Contatos:
+<div> 
+  <a href = "mailto:felipebessa13@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-bessa-b826b4191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
