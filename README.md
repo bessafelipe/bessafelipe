@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Bessa 🖐️
 
-Engenheiro Mecânico e entusista da ciência de dados.
+Engenheiro Mecânico e entusiasta da ciência de dados.
 
 ##
 Habilidades e tecnologias que utilizo:
